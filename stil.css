@@ -8,7 +8,7 @@
 .menu ul li a { display:block;  height: 30px; background:#ffb3b3 ; color:#930; font:bold 12px tahoma; text-decoration: none; text-align: center; padding: 20px 0 0 0}
 .menu ul li a:hover { color:#fff ; background:#f00 }
 
-.content1{ width:20%; float:left; background-color: pink; background-image: url("images/reklam.jpg"); background-repeat: no-repeat; background-size: cover;}
+.content1{ width:20%; float:left; background-color: pink; background-image: url("images/reklam2.jpg"); background-repeat: no-repeat; background-size: cover;}
 .maincontent{ width:60%; float:left; background: #093 ;}
 .yazi { text-align: center; color:#fff; font: 1.1vw tahoma}
 .content2{ width:20%; float:left; background: green; background-image: url("images/reklam2.jpg"); background-repeat: no-repeat; background-size: cover}
